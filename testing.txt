@@ -1,0 +1,9 @@
+esting examples
+Input	Expected sentiment	Expected emotion
+I am happy	Positive	Happy
+I am not happy	Negative	Neutral
+I am very sad	Negative	Sad
+I am angry with university	Negative	Anger
+I am worried about exams	Negative	Fear
+The university provides excellent support	Positive	Neutral
+No support from university
